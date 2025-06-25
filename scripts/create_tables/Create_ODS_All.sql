@@ -1,7 +1,7 @@
 --CREATE DATABASE BuildingMaterialsTradingCo;
 USE BuildingMaterialsTradingCo;
 
-CREATE SCHEMA BMTC_ODS;
+--CREATE SCHEMA BMTC_ODS;
 
 
 -- Drop existing tables if they exist (optional cleanup)
