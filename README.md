@@ -31,7 +31,7 @@ This repository contains the source code and documentation for the **Building Ma
 │   └── configs/           # Configuration files
 └── README.md              # Project overview and instructions (this file)
 ```
-[See Wiki for project documentation.](https://github.com/vespertron/BuildingMaterialsTradingCo/wiki)
+[See Wiki for project documentation.](https://github.com/vespertron/BuildingMaterialsTradingCo/wiki/Hey-There!)
 
 ## Objectives
 
