@@ -8,18 +8,28 @@ This repository contains the source code and documentation for the **Building Ma
 
 ```plaintext
 /
-├── docs/                # Documentation for the project
-│   ├── architecture.md  # Overview of architecture and design
-│   ├── migration_plan.md # Detailed migration plan
-│   └── readme.md        # Project-specific README for documentation
-├── scripts/             # SQL, ADF pipeline scripts, and migration scripts
-│   ├── create_tables/   # SQL scripts for table creation
-│   ├── stored_procs/    # Stored procedure scripts
-│   └── azure_pipelines/ # ADF pipeline definitions
-├── resources/           # Resources related to the migration process
-│   ├── diagrams/        # Database and migration flow diagrams
-│   └── configs/         # Configuration files
-└── README.md            # Project overview and instructions (this file)
+├── docs/                  # Documentation for the project
+|   ├── charter.md         # Outline of objectives, scope, stakeholders, key deliverables
+│   ├── mig_plan.md        # Detailed migration plan
+│   ├── database_iar.md    # Inventory & Assessment report documenting existing database systems
+│   ├── architecture.md    # Overview of architecture and design
+│   ├── mig_strat.md       # Detailed technical approach and methodology
+│   ├── risk_mgmt.md       # Identify potential risks to the migration project and outline strategies to mitigate them
+│   ├── proj_schedule.md   # Visualize and track the timeline and milestones of the project
+│   ├── status.md          # regular updates on the project's progress, risks, issues, and next steps
+│   ├── qa.md              # Test plan and quality assurance strategy
+│   ├── post-mig_report.md # document completion, lessons learned, final checks
+│   ├── change_mgmt.md     # prepare the organization for new cloud-based system and manage user adoption
+│   ├── brm.md             # Budget and resource management
+│   └── readme.md          # Project-specific README for documentation
+├── scripts/               # SQL, ADF pipeline scripts, and migration scripts
+│   ├── create_tables/     # SQL scripts for table creation
+│   ├── stored_procs/      # Stored procedure scripts
+│   └── azure_pipelines/   # ADF pipeline definitions
+├── resources/             # Resources related to the migration process
+│   ├── diagrams/          # Database and migration flow diagrams
+│   └── configs/           # Configuration files
+└── README.md              # Project overview and instructions (this file)
 ```
 
 
