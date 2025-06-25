@@ -38,6 +38,7 @@ This repository contains the source code and documentation for the **Building Ma
 - **Database Administration:** Manage the existing on-premises databases, ensuring their optimal performance, security, and availability.
 - **Migration:** Migrate on-premises data to Azure using Azure Data Factory, ensuring data integrity, security, and minimal downtime.
 - **Automation:** Automate the database administration tasks and migration process to improve efficiency and reduce human errors.
+- **Predictive Maintenance:** Integrate AI/ML models into database environments to enhance capabilities such as predictive maintenance, anomaly detection in data, and automation of routine tasks.
 - **Scalability & Performance:** Utilize Azure’s cloud solutions to scale the database infrastructure and optimize performance.
 
 ## Technologies Used
