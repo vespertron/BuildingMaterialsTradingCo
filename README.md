@@ -8,7 +8,7 @@ This repository contains the source code and documentation for the **Building Ma
 
 ```plaintext
 /
-├── docs/                  # Documentation for the project
+├── docs/                  # Click the Wiki button above to find project documentation
 |   ├── charter.md         # Outline of objectives, scope, stakeholders, key deliverables
 │   ├── mig_plan.md        # Detailed migration plan
 │   ├── database_iar.md    # Inventory & Assessment report documenting existing database systems
