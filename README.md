@@ -1,5 +1,9 @@
 # BMTC Database Administration and Migration to Azure Data Factory
 
+## Please See
+- [SQLServer_VENV](https://github.com/vespertron/SQLServer_VENV)
+- [AzureDataFactory_Migration](https://github.com/vespertron/AzureDataFactory_Migration)
+
 ## Project Overview
 
 This repository contains the source code and documentation for the **Building Materials Trading Company (BMTC)** database administration and migration to **Azure Data Factory (ADF)** project. The goal of this project is to transition BMTC's on-premises data management systems to Azure cloud services, leveraging ADF to ensure a smooth, scalable, and efficient migration.
